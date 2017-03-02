@@ -29,7 +29,7 @@ public class Main {
 			}
 			
 			System.out.printf("%.3f", (float) count / M * 100);
-			System.out.println("%");
+			System.out.println("%"); //
 		}
 	}
 }
